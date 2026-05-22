@@ -8,7 +8,7 @@
 
 ![Portada de Corazones](./img/Corazones.jpeg)
 
-- (Corazones)
+- Corazones
 - 1990
 - Los Prisioneros (Jorge Gonzáles y Miguel Tapia)
 - Tracklist:
