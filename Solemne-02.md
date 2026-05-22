@@ -1,4 +1,5 @@
 # Solemne-02
+- <https://editor.p5js.org/LastSamuel5/sketches/48s-X48d8>
 
 ## Integrantes del grupo
 
@@ -123,3 +124,9 @@ if (mouseIsPressed) {
 function preload(){
   }
 ```
+
+### Bibliografia
+
+- <https://gemini.google.com>
+- <https://www.600discoslatam.com/discos/chile/ser-humano-tiro-de-gracia/>
+- <https://es.wikipedia.org/wiki/Tren_al_sur>
